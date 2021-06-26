@@ -1,0 +1,23 @@
+###############
+## IMPORTANT ##
+###############
+# Be sure to replace this comment block with the contents of your existing hosts file, without including any of the below domains.
+
+
+# balanced urls
+[IP]	example.com www.example.com
+[IP]	api.example.com
+[IP]	subscribe.example.com
+[IP]	subscribe.examplesunnews.com
+[IP]	thingstodo.example.com
+[IP]	wp.example.com
+[IP]	exampledirect.com www.exampledirect.com
+[IP]	brides.example.com
+[IP]	jobs.example.com
+[IP]	realestate.example.com
+[IP]	examplecity.com www.examplecity.com
+[IP]	examplesunnews.com www.examplesunnews.com
+
+
+# non-balanced urls
+[IP]	newsletters.example.com

@@ -1,0 +1,1 @@
+This directory contains a little PHP script for the command line, to quickly update the user's hosts file switching all of the company's domains to a specific server's IP address for testing.
